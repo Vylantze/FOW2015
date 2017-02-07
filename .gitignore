@@ -35,11 +35,11 @@ sysinfo.txt
 *.unitypackage
 
 # Others
-*.jpg
-*.gif
-*.png
-*.pdf
-*.mp3
-*.tff
-*.zip
-*.meta
+/Assets/*.jpg
+/Assets/*.gif
+/Assets/*.png
+/Assets/*.pdf
+/Assets/*.mp3
+/Assets/*.tff
+/Assets/*.zip
+/Assets/*.meta
