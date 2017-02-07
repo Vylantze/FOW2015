@@ -36,10 +36,12 @@ sysinfo.txt
 
 # Others
 /Assets/*.jpg
+/Assets/*.wav
 /Assets/*.gif
 /Assets/*.png
 /Assets/*.pdf
 /Assets/*.mp3
-/Assets/*.tff
+/Assets/*.ttf
 /Assets/*.zip
 /Assets/*.meta
+/Assets/static_data/*
